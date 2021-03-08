@@ -23,7 +23,7 @@ header {
 }
 
 main {
-  margin-top: 45vh;
+  margin-top: 43vh;
   height: 50vh;
   background: #050505;
   color: #ffffff;
@@ -33,7 +33,7 @@ main {
 }
 
 main h2 {
-  margin-top: 10vh;
+  padding-top: 10vh;
 }
 
 main a {
