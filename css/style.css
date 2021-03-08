@@ -24,12 +24,16 @@ header {
 
 main {
   margin-top: 50vh;
-  height: 50vh;
+  height: 45vh;
   background: #050505;
   color: #ffffff;
   font-family: 'Dancing Script', sans-serif;
   text-align: center;
   font-size: 7vh;
+}
+
+main h2 {
+  margin-top: 10vh;
 }
 
 main a {
