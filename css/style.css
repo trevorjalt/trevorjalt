@@ -36,6 +36,10 @@ main h2 {
   padding-top: 10vh;
 }
 
+main p {
+  width: 80vw;
+}
+
 main a {
   text-decoration: none;
   color: #ffffff;
