@@ -23,7 +23,7 @@ header {
 }
 
 main {
-  top: 50vh;
+  margin-top: 50vh;
   height: 50vh;
   background: #050505;
   color: #ffffff;
