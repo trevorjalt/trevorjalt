@@ -28,7 +28,8 @@ main {
   background: #050505;
   color: #ffffff;
   font-family: 'Dancing Script', sans-serif;
-
+  text-align: center;
+  font-size: 7vh;
 }
 
 main a {
