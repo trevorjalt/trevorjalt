@@ -2,7 +2,7 @@
 header {
   display: flex;
   flex-direction: column;
-  background-color: #95BBBE;
+  background-color: #FFEED6;
   font-family: 'Nunito', sans-serif;
   color: #ffffff;
   text-align: center;
@@ -11,36 +11,9 @@ header {
   align-items: center;
 }
 
-header h1 {
-  font-size: 3rem;
-  margin: 3vh;
-}
-
-header h2 {
-  font-size: 2rem;
-  margin: 2vh;
-}
-
-header nav ul {
-  display: flex;
-  padding-left: 0;
-  list-style: none;
-}
-
-header nav ul li a {
-  color: #3E6E72;
-  text-decoration: none;
-  margin: 0 20px 0 0;
-  font-size: 1.1rem;
-}
-
-header nav ul li:last-child a {
-  margin-right: 0;
-}
-
 .page-header {
   max-height: 300px;
-  background: url(images/header-bg.png) no-repeat center / cover;
+  background: url(images/trevorjalt.png) no-repeat center / cover;
   position: absolute;
   top: 0;
   left: 0;
